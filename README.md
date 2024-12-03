@@ -19,6 +19,8 @@ Key features include:
 - **Historical Data Analysis**: Analyze past performance of assets and simulate future scenarios using historical data.
 - **Visualization**: Interactive charts for portfolio allocation, performance trends, and risk distribution.
 
+![image](https://github.com/user-attachments/assets/824c8704-fc6f-4cd1-aed2-8d1b9e4cd7db)
+
 ## Installation
 To get started with the project, follow these instructions:
 
